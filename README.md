@@ -1,4 +1,4 @@
-# Alfresco Custom Role
+# Alfresco Customize SiteCollaborator Role
 According to Alfresco documentation, Share "Collaborators have full rights to the site content that they own; they have rights to edit but not delete content created by other site members". Only Site Manager can delete content regardless ownership. The use case is to enable Site Collaborator to delete content. Since move content = delete in source folder + create in target folder, this also enables Site Collaborator to move content.   
 
 ## Solution
